@@ -1,4 +1,4 @@
-import com.sun.source.tree.Scope;
+package com.nikitap.webchat.client;
 
 import java.io.*;
 import java.net.Socket;
